@@ -30,7 +30,7 @@ function AboutMe() {
                   <Button
                     btnText="Resume"
                     newTab={true}
-                    href="https://drive.google.com/file/d/1cQfae7mgJV8gbX_zkVZVU6JdP93CcyGI/view?usp=sharing"
+                    href="https://drive.google.com/file/d/1zNMKL2mafTQpTAluqji3XLUnrYbSocRy/view?usp=sharing"
                   />
                 </div>
               </div>
