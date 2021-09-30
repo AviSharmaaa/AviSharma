@@ -1,0 +1,16 @@
+.disp {
+  justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+i.software-icons {
+  font-size: 3.5rem;
+  color: #868e96;
+  cursor: pointer;
+  margin: 0.5rem;
+}
+
+i.software-icons:hover {
+  color: #25c2a0;
+}
