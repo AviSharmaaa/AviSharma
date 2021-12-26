@@ -11,6 +11,11 @@ function Projects() {
           <h1 className="project-heading">Personal Projects</h1>
           <div className="project-cards">
             <ProjectInfoCard
+              projectName="News Headlines Classifier"
+              projectDescription="A python console application for Sentiment Classification of News Headlines using Multinomial Naive Bayes classifier which is suitable for text classification."
+              url="https://github.com/AviSharmaaa/Sentiment_Classification_of_News_Headlines"
+            />
+            <ProjectInfoCard
               projectName="Hangman Game"
               projectDescription="A simple Hangman Game build using Flutter framework. It comes with 2 modes, an easy mode which has 5 lives per turn, and a timer mode with 60 secs of the time limit and 5 lives per turn."
               url="https://github.com/AviSharmaaa/Hangman_Game_Flutter"
